@@ -1,0 +1,15 @@
+{
+  "name": "7-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll *.js"
+  },
+  "author": "ModasMarc",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
